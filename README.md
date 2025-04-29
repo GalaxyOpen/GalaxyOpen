@@ -1,7 +1,7 @@
-## Hi there 👋
+## Kee hong Lee
 
 ![Java](https://img.shields.io/badge/Java-Language-red)
-![Python](https://img.shields.io/badge/Python-Language-blue)
+![Python](https://img.shields.io/badge/Python-Language-blue?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow)
 ![NodeJs](https://img.shields.io/badge/NodeJs-Backend-green)
 ![Spring](https://img.shields.io/badge/Spring-Framework-brightgreen)
