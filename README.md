@@ -1,6 +1,9 @@
 ## GalaxyOpen
 
-![GalaxyOpen](https://github.com/GalaxyOpen/GalaxyOpen/blob/main/Dogbin.jpg?raw=true)
+<div align="center">
+  ![GalaxyOpen](https://github.com/GalaxyOpen/GalaxyOpen/blob/main/Dogbin.jpg?raw=true)
+</div>
+
 
 ![Java](https://img.shields.io/badge/Java-Language-red?logo=openjdk&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-Language-blue?logo=python&style=flat-square)
