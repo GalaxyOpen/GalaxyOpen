@@ -1,8 +1,7 @@
 ## GalaxyOpen
 
-<div align="center">
-  <img src="https://github.com/GalaxyOpen/GalaxyOpen/blob/main/Dogbin.jpg?raw=true" alt="GalaxyOpen" />
-</div>
+
+<img src="https://github.com/GalaxyOpen/GalaxyOpen/blob/main/Dogbin.jpg?raw=true" alt="GalaxyOpen" />
 
 
 
