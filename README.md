@@ -1,7 +1,7 @@
 ## GalaxyOpen
 
 <div align="center">
-  ![GalaxyOpen](https://github.com/GalaxyOpen/GalaxyOpen/blob/main/Dogbin.jpg?raw=true)
+  <img src="https://github.com/GalaxyOpen/GalaxyOpen/blob/main/Dogbin.jpg?raw=true", alt="GalaxyOpen")
 </div>
 
 
