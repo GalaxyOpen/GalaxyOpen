@@ -34,7 +34,7 @@
 ### 1. 간단한 웹 서버 구축
 - 기술 : React, Node.js
 - 설명 : 기본적인 CRUD(Create, Read, Update, Delete) 기능 구현.
-- 링크 : [https://github](https://github.com/GalaxyOpen/node_react_board)
+- 링크 : https://github.com/GalaxyOpen/node_react_board
 
 ### 2. AI 모델 학습 프로젝트 
 - 기술 : python, Tensorflow
