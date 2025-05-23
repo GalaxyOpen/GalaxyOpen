@@ -46,4 +46,4 @@
 
 ## 🎯 Me?
  - AI에 관심이 많음( I'm interested in AI)
- - 구직 중(looking for a job) 
+ - 2025.06.02~ Data Project
