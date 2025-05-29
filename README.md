@@ -42,7 +42,7 @@
 - 링크 : https://github.com/GalaxyOpen/project_3_model
 
 ## 🧰 IDE tools
-- VSCode, Jupyter Notebook
+- VSCode, Jupyter Notebook, Eclipse, IntelliJ
 
 ## 🎯 Me?
  - AI에 관심이 많음( I'm interested in AI)
