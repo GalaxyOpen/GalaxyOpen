@@ -49,3 +49,4 @@
  - 2025.06.02~ Data Project
  - 2025.06.02~ AI agent
  - 2025.06.02~ LTmetric : Data integrated Project / hired
+ - 2025.06.04~ LTmetric : Just Labeling 
