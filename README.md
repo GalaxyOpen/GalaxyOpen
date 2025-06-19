@@ -51,4 +51,4 @@
  - 2025.06.02~ LTmetric : Data integrated Project / hired
  - 2025.06.04~ LTmetric : Just Labeling
  - 2025.06.11~ LTmetric : QGIS
- - 2025.06.12~ LTmetric : GIS 기초
+ - 2025.06.12~ LTmetric : GIS Basic
