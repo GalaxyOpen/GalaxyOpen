@@ -52,3 +52,4 @@
  - 2025.06.04~ LTmetric : Just Labeling
  - 2025.06.11~ LTmetric : QGIS
  - 2025.06.12~ LTmetric : GIS Basic
+ - 2025.06.23~ LTmetric : Data generation
