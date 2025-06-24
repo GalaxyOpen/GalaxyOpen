@@ -53,3 +53,4 @@
  - 2025.06.11~ LTmetric : QGIS
  - 2025.06.12~ LTmetric : GIS Basic
  - 2025.06.23~ LTmetric : Data generation
+  - 2025.06.24~ LTmetric : Data generation - 가산디지털단지  
