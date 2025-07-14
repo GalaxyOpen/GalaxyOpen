@@ -59,3 +59,4 @@
   - 2025.07.01~ LTmetric : Data generation - 가산디지털단지4
   - 2025.07.01~ LTmetric : Data generation - 가산디지털단지5
   - 2025.07.08~ LTmetric : Data generation - 가산디지털단지6 + 2025.07.09 메모장 업로드 + 2025.07.10 메모장 업그레이드
+  - 2025.07.14~ LTmetric : Data generation - 하남1 
