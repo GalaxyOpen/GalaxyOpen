@@ -64,4 +64,4 @@
   - 2025.07.16~ LTmetric : Data generation - 인천 연수구2
   - 2025.07.16~ LTmetric : SQLD Preparation (자격증 준비)
   - 2025.07.16~ LTmetric : Data generation - 인천 연수구2 // 서울 서초구1
-  - 2025.07.20 // SQLD Test 시험 준비 // 교재 구입입
+  - 2025.07.20 // SQLD Test 시험 준비 // 교재 구입 + 도서실
