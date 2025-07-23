@@ -66,3 +66,4 @@
   - 2025.07.16~ LTmetric : Data generation - 인천 연수구2 // 서울 서초구1
   - 2025.07.20 // SQLD Test 시험 준비 // 교재 구입 + 도서실
   - 2025.07.21 // SQLD 1장 : 데이터 모델링의 이해 + LTmetric : Data generation - 경기 고양시
+  - 2025.07.23 // SQLD 2장 : 정규화/반정규화 // LTmetric : Data generation - 완료된 서울 서초구 검수작업
