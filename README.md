@@ -70,4 +70,4 @@
   - 2025.07.25 // SQLD 3장 : Query 문 // LTmetric : Data generation - 완료된 서울 서초구 검수작업2
 
 ## 또다른 제안. 갈 것인가? 
-- KR sys
+- KR sys : 2025.07.27 // 준비해보자. 
