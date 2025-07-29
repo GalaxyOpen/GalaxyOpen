@@ -72,3 +72,4 @@
 ## 또다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
 - 탈락(아마도)
+- 후기 (https://docs.google.com/document/d/1nkaTgGVUm1tcNrBX7Y99a5uuhC_C0s2kk3r8LfGXNGc/edit?tab=t.0)
