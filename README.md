@@ -68,9 +68,10 @@
   - 2025.07.21 // SQLD 1장 : 데이터 모델링의 이해 + LTmetric : Data generation - 경기 고양시
   - 2025.07.23 // SQLD 2장 : 정규화/반정규화 // LTmetric : Data generation - 완료된 서울 서초구 검수작업
   - 2025.07.25 // SQLD 3장 : Query 문 // LTmetric : Data generation - 완료된 서울 서초구 검수작업2
-  - 2025.07.30 // LTmetirc : Data generation - 경기 구리 
+  - 2025.07.30 // LTmetirc : Data generation - 경기 구리
+  - 2025.07.30 // LTmetirc : Data generation - 경기 구리 이어서 작업
 
-## 또다른 제안. 갈 것인가? 
+## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
 - 탈락(아마도)
 - 후기 (https://docs.google.com/document/d/1nkaTgGVUm1tcNrBX7Y99a5uuhC_C0s2kk3r8LfGXNGc/edit?tab=t.0)
