@@ -71,7 +71,8 @@
   - 2025.07.30 // LTmetirc : Data generation - 경기 구리
   - 2025.07.30 // LTmetirc : Data generation - 경기 구리 이어서 작업 2025.08.01 : 완료
   - 2025.08.01 // LTmetric : Data generation - 강남 작업 중 // SQLD 3장 집계함수, 4장 Join 에 대하여
-  - 2025.08.03 // SQLD 5장 관리구문 
+  - 2025.08.03 // SQLD 5장 관리구문
+  - 2025.08.05 // SQLD 5장 DDL DML DCL TCL
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
