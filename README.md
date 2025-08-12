@@ -75,7 +75,9 @@
   - 2025.08.05 // SQLD 5장 DDL DML DCL TCL
   - 2025.08.09 // SQLD 14일차 끝내기 1독 완료
   - 2025.08.10 // SQLD 문제풀이 1회독 시작
-  - 2025.08.10 LTmetric Data generation - 경기도 오산 
+  - 2025.08.10 LTmetric Data generation - 경기도 오산
+  -   - 2025.08.11 LTmetric Data generation - 경기도 서수원 터미널 근방
+
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
