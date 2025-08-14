@@ -78,6 +78,7 @@
   - 2025.08.10 LTmetric Data generation - 경기도 오산
   - 2025.08.11 LTmetric Data generation - 경기도 서수원 터미널 근방
   - 2025.08.13 LTmetric Data generation - 경기도 수원
+  - 2025.08.13 LTmetric Data generation - 수원특례시 계속 // SQLD 3회 정독 완료
 
 
 ## 다른 제안. 갈 것인가? 
