@@ -91,7 +91,8 @@
   - 2025.08.25 LTmetric Data generation - 양식장 판별 작업
   - 2025.08.25 책(ADsP) 대기 중 // 2025.08.26 책 도착(09:00pm)
   - 2025.08.27 LTmetric Data generation - 경상 양산
-  - 2025.08.28 ADsP 시험 대비 
+  - 2025.08.28 ADsP 시험 대비 3장까지 완료(08.29)
+  - 2025.08.29 LTmetric Data generation - 팀별 작업 재정리 회의(규칙 재정의)
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
