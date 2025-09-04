@@ -73,6 +73,7 @@
   - 2025.08.01 // LTmetric : Data generation - 강남 작업 중 // SQLD 3장 집계함수, 4장 Join 에 대하여
   - 2025.08.03 // SQLD 5장 관리구문
   - 2025.08.05 // SQLD 5장료
+  - 2025.09.04 // LTmetric : Data generation - 각 지역 작업 중 실수 한 것들 전부 재작업
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
