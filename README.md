@@ -99,6 +99,7 @@
   - 2025.09.07 // ADsP 1챕터 다시 정독
   - 2025.09.08 : 야근
   - 2025.09.09 // LTmetric : Data generation - 양산
+  - 2025.09.10 // LTmetric : Data generation - 수원 // ADsP : 1과목 채점(58)
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
