@@ -103,6 +103,7 @@
   - 2025.09.11 // LTmetric : Data generation - 부산 // ADsP : 2과목 정독 중
   - 2025.09.12 // LTmetric : Data generation - 동대문 // SQLD : 불합격(52) but 다음에 붙으면 반드시 합격할 듯
   - 2025.09.14 // ADsP : 3과목 다시 재 정독 중
+  - 2025.09.15 // LTmetric : Data generation - 동대문 // ADsP : 2과목 점수(52)
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
