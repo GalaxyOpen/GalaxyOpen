@@ -105,8 +105,13 @@
   - 2025.09.14 // ADsP : 3과목 다시 재 정독 중
   - 2025.09.15 // LTmetric : Data generation - 동대문 (1/3) // ADsP : 2과목 점수(52)
   - 2025.09.16 // LTmetric : Data generation - 동대문 (2/3)
+  - 2025.09.17 // LTmetric : Data generation - 동대문 (3/3)
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
 - 탈락(아마도)
 - 후기 (https://docs.google.com/document/d/1nkaTgGVUm1tcNrBX7Y99a5uuhC_C0s2kk3r8LfGXNGc/edit?tab=t.0)
+
+- DSE trade : 2025.09.16 // 제안이 왔다.
+- DSE trade : 2025.09.17 // 면접 제안을 철회하겠다고 한다. 하루만에 제안을 철회하겠다고 한다.
+- 지친다 진짜... 
