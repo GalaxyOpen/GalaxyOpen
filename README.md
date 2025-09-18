@@ -106,6 +106,7 @@
   - 2025.09.15 // LTmetric : Data generation - 동대문 (1/3) // ADsP : 2과목 점수(52)
   - 2025.09.16 // LTmetric : Data generation - 동대문 (2/3)
   - 2025.09.17 // LTmetric : Data generation - 동대문 (3/3)
+  - 2025.09.18 // LTmetric : Data generation - 동대문 추가 (1/2)
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
