@@ -107,6 +107,7 @@
   - 2025.09.16 // LTmetric : Data generation - 동대문 (2/3)
   - 2025.09.17 // LTmetric : Data generation - 동대문 (3/3)
   - 2025.09.18 // LTmetric : Data generation - 동대문 추가 (1/2)
+  - 2025.09.19 // LTmetric : Data generation - 동대문 추가 (2/2) / 군위(1/5)
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
