@@ -108,6 +108,7 @@
   - 2025.09.17 // LTmetric : Data generation - 동대문 (3/3)
   - 2025.09.18 // LTmetric : Data generation - 동대문 추가 (1/2)
   - 2025.09.19 // LTmetric : Data generation - 동대문 추가 (2/2) / 군위(1/5)
+  - 2025.09.20 // ADsP : 범위가 너무 넓다... 이걸 어떻게 다하지...? 4차 정독 중
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
