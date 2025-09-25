@@ -112,7 +112,8 @@
   - 2025.09.21 // ADsP : 4차 정독 중..
   - 2025.09.22 // ADsP 인줄 알았던 시험. DAsP(데이터 아키텍쳐) 였다...
   - 2025.09.23 // LTmetric : Data generation 군위(5/5). 이어서 안양
-  - 2025.09.23 // LTmetric : Data generation 안양
+  - 2025.09.24 // LTmetric : Data generation 안양(1/3)
+  - 2025.09.25 // LTmetric : Data generation 안양(2/3) // ADsP도 ADsP인데 SQLD는...?
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
