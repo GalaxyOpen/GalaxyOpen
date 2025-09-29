@@ -114,7 +114,8 @@
   - 2025.09.23 // LTmetric : Data generation 군위(5/5). 이어서 안양
   - 2025.09.24 // LTmetric : Data generation 안양(1/3)
   - 2025.09.25 // LTmetric : Data generation 안양(2/3) // ADsP도 ADsP인데 SQLD는...?
-  - 2025.09.28 // 광주일정 canceled 
+  - 2025.09.28 // 광주일정 canceled
+  - 2025.09.29 // LTmetric : Data generation 안양(3/3)
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
