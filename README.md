@@ -101,7 +101,23 @@
   - 2025.09.09 // LTmetric : Data generation - 양산
   - 2025.09.10 // LTmetric : Data generation - 수원 // ADsP : 1과목 채점(58)
   - 2025.09.11 // LTmetric : Data generation - 부산 // ADsP : 2과목 정독 중
-  - 2025.09.12 // LTmetric : Data generation -남
+  - 2025.09.12 // LTmetric : Data generation - 동대문 // SQLD : 불합격(52) but 다음에 붙으면 반드시 합격할 듯
+  - 2025.09.14 // ADsP : 3과목 다시 재 정독 중
+  - 2025.09.15 // LTmetric : Data generation - 동대문 (1/3) // ADsP : 2과목 점수(52)
+  - 2025.09.16 // LTmetric : Data generation - 동대문 (2/3)
+  - 2025.09.17 // LTmetric : Data generation - 동대문 (3/3)
+  - 2025.09.18 // LTmetric : Data generation - 동대문 추가 (1/2)
+  - 2025.09.19 // LTmetric : Data generation - 동대문 추가 (2/2) / 군위(1/5)
+  - 2025.09.20 // ADsP : 범위가 너무 넓다... 이걸 어떻게 다하지...? 4차 정독 중
+  - 2025.09.21 // ADsP : 4차 정독 중..
+  - 2025.09.22 // ADsP 인줄 알았던 시험. DAsP(데이터 아키텍쳐) 였다...
+  - 2025.09.23 // LTmetric : Data generation 군위(5/5). 이어서 안양
+  - 2025.09.24 // LTmetric : Data generation 안양(1/3)
+  - 2025.09.25 // LTmetric : Data generation 안양(2/3) // ADsP도 ADsP인데 SQLD는...?
+  - 2025.09.28 // 광주일정 canceled
+  - 2025.09.29 // LTmetric : Data generation 안양(3/3)
+  - 2025.09.30 // LTmetric : Data generation 강남(1/2)
+  - 2025.10.01 // LTmetric : Data generation 강남(2/2)
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
