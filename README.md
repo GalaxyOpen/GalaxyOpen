@@ -118,6 +118,8 @@
   - 2025.09.29 // LTmetric : Data generation 안양(3/3)
   - 2025.09.30 // LTmetric : Data generation 강남(1/2)
   - 2025.10.01 // LTmetric : Data generation 강남(2/2)
+  - 2025.10.02 // LTmetric : Data generation 역삼(1/2)
+  - 2025.10.03 // 휴식식
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
