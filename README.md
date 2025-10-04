@@ -53,73 +53,74 @@
  - 2025.06.11~ LTmetric : QGIS
  - 2025.06.12~ LTmetric : GIS Basic
  - 2025.06.23~ LTmetric : Data generation
-  - 2025.06.24~ LTmetric : Data generation - 가산디지털단지 06.25 : 가산디지털단지2
-  - 2025.06.26~ LTmetric : Data generation - 가산디지털단지 06.26 : 가산디지털단지3
-  - 2025.06.27~ qgis 이론 공부 ~ 06.29 완료
-  - 2025.07.01~ LTmetric : Data generation - 가산디지털단지4
-  - 2025.07.01~ LTmetric : Data generation - 가산디지털단지5
-  - 2025.07.08~ LTmetric : Data generation - 가산디지털단지6 + 2025.07.09 메모장 업로드 + 2025.07.10 메모장 업그레이드
-  - 2025.07.14~ LTmetric : Data generation - 하남1
-  - 2025.07.15~ LTmetric : Data generation - 인천 연수구1 // 2025.07.16 종료
-  - 2025.07.16~ LTmetric : Data generation - 인천 연수구2
-  - 2025.07.16~ LTmetric : SQLD Preparation (자격증 준비)
-  - 2025.07.16~ LTmetric : Data generation - 인천 연수구2 // 서울 서초구1
-  - 2025.07.20 // SQLD Test 시험 준비 // 교재 구입 + 도서실
-  - 2025.07.21 // SQLD 1장 : 데이터 모델링의 이해 + LTmetric : Data generation - 경기 고양시
-  - 2025.07.23 // SQLD 2장 : 정규화/반정규화 // LTmetric : Data generation - 완료된 서울 서초구 검수작업
-  - 2025.07.25 // SQLD 3장 : Query 문 // LTmetric : Data generation - 완료된 서울 서초구 검수작업2
-  - 2025.07.30 // LTmetirc : Data generation - 경기 구리
-  - 2025.07.30 // LTmetirc : Data generation - 경기 구리 이어서 작업 2025.08.01 : 완료
-  - 2025.08.01 // LTmetric : Data generation - 강남 작업 중 // SQLD 3장 집계함수, 4장 Join 에 대하여
-  - 2025.08.03 // SQLD 5장 관리구문
-  - 2025.08.05 // SQLD 5장 DDL DML DCL TCL
-  - 2025.08.09 // SQLD 14일차 끝내기 1독 완료
-  - 2025.08.10 // SQLD 문제풀이 1회독 시작
-  - 2025.08.10 LTmetric Data generation - 경기도 오산
-  - 2025.08.11 LTmetric Data generation - 경기도 서수원 터미널 근방
-  - 2025.08.13 LTmetric Data generation - 경기도 수원특례시
-  - 2025.08.14 LTmetric Data generation - 수원특례시 계속 // SQLD 3회 정독 완료
-  - 2025.08.15 광복절
-  - 2025.08.16 SQLD 3회독 완료
-  - 2025.08.17 SQLD 4회독 완료 // SQLD 기출문제 1회 완료(76)
-  - 2025.08.18 SQLD 기출문제 2회 완료(70)
-  - 2025.08.19 SQLD 기출문제 3회 완료(68), 4회 완료(76)
-  - 2025.08.20 SQLD 기출문제 1회 해석 완료. 2회 해석 완료
-  - 2025.08.21 SQLD 기출문제 3회 해석 완료. 4회 해석 완료
-  - 2025.08.23 SQLD 시험 58회 - 난이도가 상당히 어렵다고는 했는데 이정도일줄이야... 솔직히 너무 준비를 대충했음.
-  - 2025.08.24 다음은 ADsP. 1년만에, AI 관련 준비를 다시한다.
-  - 2025.08.25 LTmetric Data generation - 양식장 판별 작업
-  - 2025.08.25 책(ADsP) 대기 중 // 2025.08.26 책 도착(09:00pm)
-  - 2025.08.27 LTmetric Data generation - 경상 양산
-  - 2025.08.28 ADsP 시험 대비 3장까지 완료(08.29)
-  - 2025.08.29 LTmetric Data generation - 팀별 작업 재정리 회의(규칙 재정의)
-  - 2025.09.04 // LTmetric : Data generation - 각 지역 작업 중 실수 한 것들 전부 재작업
-  - 2025.09.05 // 본격 공부시작
-  - 2025.09.06 // ADsP 1~8챕터 1회독
-  - 2025.09.07 // ADsP 1챕터 다시 정독
-  - 2025.09.08 : 야근
-  - 2025.09.09 // LTmetric : Data generation - 양산
-  - 2025.09.10 // LTmetric : Data generation - 수원 // ADsP : 1과목 채점(58)
-  - 2025.09.11 // LTmetric : Data generation - 부산 // ADsP : 2과목 정독 중
-  - 2025.09.12 // LTmetric : Data generation - 동대문 // SQLD : 불합격(52) but 다음에 붙으면 반드시 합격할 듯
-  - 2025.09.14 // ADsP : 3과목 다시 재 정독 중
-  - 2025.09.15 // LTmetric : Data generation - 동대문 (1/3) // ADsP : 2과목 점수(52)
-  - 2025.09.16 // LTmetric : Data generation - 동대문 (2/3)
-  - 2025.09.17 // LTmetric : Data generation - 동대문 (3/3)
-  - 2025.09.18 // LTmetric : Data generation - 동대문 추가 (1/2)
-  - 2025.09.19 // LTmetric : Data generation - 동대문 추가 (2/2) / 군위(1/5)
-  - 2025.09.20 // ADsP : 범위가 너무 넓다... 이걸 어떻게 다하지...? 4차 정독 중
-  - 2025.09.21 // ADsP : 4차 정독 중..
-  - 2025.09.22 // ADsP 인줄 알았던 시험. DAsP(데이터 아키텍쳐) 였다...
-  - 2025.09.23 // LTmetric : Data generation 군위(5/5). 이어서 안양
-  - 2025.09.24 // LTmetric : Data generation 안양(1/3)
-  - 2025.09.25 // LTmetric : Data generation 안양(2/3) // ADsP도 ADsP인데 SQLD는...?
-  - 2025.09.28 // 광주일정 canceled
-  - 2025.09.29 // LTmetric : Data generation 안양(3/3)
-  - 2025.09.30 // LTmetric : Data generation 강남(1/2)
-  - 2025.10.01 // LTmetric : Data generation 강남(2/2)
-  - 2025.10.02 // LTmetric : Data generation 역삼(1/2)
-  - 2025.10.03 // 휴식식
+ - 2025.06.24~ LTmetric : Data generation - 가산디지털단지 06.25 : 가산디지털단지2
+ - 2025.06.26~ LTmetric : Data generation - 가산디지털단지 06.26 : 가산디지털단지3
+ - 2025.06.27~ qgis 이론 공부 ~ 06.29 완료
+ - 2025.07.01~ LTmetric : Data generation - 가산디지털단지4
+ - 2025.07.01~ LTmetric : Data generation - 가산디지털단지5
+ - 2025.07.08~ LTmetric : Data generation - 가산디지털단지6 + 2025.07.09 메모장 업로드 + 2025.07.10 메모장 업그레이드
+ - 2025.07.14~ LTmetric : Data generation - 하남1
+ - 2025.07.15~ LTmetric : Data generation - 인천 연수구1 // 2025.07.16 종료
+ - 2025.07.16~ LTmetric : Data generation - 인천 연수구2
+ - 2025.07.16~ LTmetric : SQLD Preparation (자격증 준비)
+ - 2025.07.16~ LTmetric : Data generation - 인천 연수구2 // 서울 서초구1
+ - 2025.07.20 // SQLD Test 시험 준비 // 교재 구입 + 도서실
+ - 2025.07.21 // SQLD 1장 : 데이터 모델링의 이해 + LTmetric : Data generation - 경기 고양시
+ - 2025.07.23 // SQLD 2장 : 정규화/반정규화 // LTmetric : Data generation - 완료된 서울 서초구 검수작업
+ - 2025.07.25 // SQLD 3장 : Query 문 // LTmetric : Data generation - 완료된 서울 서초구 검수작업2
+ - 2025.07.30 // LTmetirc : Data generation - 경기 구리
+ - 2025.07.30 // LTmetirc : Data generation - 경기 구리 이어서 작업 2025.08.01 : 완료
+ - 2025.08.01 // LTmetric : Data generation - 강남 작업 중 // SQLD 3장 집계함수, 4장 Join 에 대하여
+ - 2025.08.03 // SQLD 5장 관리구문
+ - 2025.08.05 // SQLD 5장 DDL DML DCL TCL
+ - 2025.08.09 // SQLD 14일차 끝내기 1독 완료
+ - 2025.08.10 // SQLD 문제풀이 1회독 시작
+ - 2025.08.10 LTmetric Data generation - 경기도 오산
+ - 2025.08.11 LTmetric Data generation - 경기도 서수원 터미널 근방
+ - 2025.08.13 LTmetric Data generation - 경기도 수원특례시
+ - 2025.08.14 LTmetric Data generation - 수원특례시 계속 // SQLD 3회 정독 완료
+ - 2025.08.15 광복절
+ - 2025.08.16 SQLD 3회독 완료
+ - 2025.08.17 SQLD 4회독 완료 // SQLD 기출문제 1회 완료(76)
+ - 2025.08.18 SQLD 기출문제 2회 완료(70)
+ - 2025.08.19 SQLD 기출문제 3회 완료(68), 4회 완료(76)
+ - 2025.08.20 SQLD 기출문제 1회 해석 완료. 2회 해석 완료
+ - 2025.08.21 SQLD 기출문제 3회 해석 완료. 4회 해석 완료
+ - 2025.08.23 SQLD 시험 58회 - 난이도가 상당히 어렵다고는 했는데 이정도일줄이야... 솔직히 너무 준비를 대충했음.
+ - 2025.08.24 다음은 ADsP. 1년만에, AI 관련 준비를 다시한다.
+ - 2025.08.25 LTmetric Data generation - 양식장 판별 작업
+ - 2025.08.25 책(ADsP) 대기 중 // 2025.08.26 책 도착(09:00pm)
+ - 2025.08.27 LTmetric Data generation - 경상 양산
+ - 2025.08.28 ADsP 시험 대비 3장까지 완료(08.29)
+ - 2025.08.29 LTmetric Data generation - 팀별 작업 재정리 회의(규칙 재정의)
+ - 2025.09.04 // LTmetric : Data generation - 각 지역 작업 중 실수 한 것들 전부 재작업
+ - 2025.09.05 // 본격 공부시작
+ - 2025.09.06 // ADsP 1~8챕터 1회독
+ - 2025.09.07 // ADsP 1챕터 다시 정독
+ - 2025.09.08 : 야근
+ - 2025.09.09 // LTmetric : Data generation - 양산
+ - 2025.09.10 // LTmetric : Data generation - 수원 // ADsP : 1과목 채점(58)
+ - 2025.09.11 // LTmetric : Data generation - 부산 // ADsP : 2과목 정독 중
+ - 2025.09.12 // LTmetric : Data generation - 동대문 // SQLD : 불합격(52) but 다음에 붙으면 반드시 합격할 듯
+ - 2025.09.14 // ADsP : 3과목 다시 재 정독 중
+ - 2025.09.15 // LTmetric : Data generation - 동대문 (1/3) // ADsP : 2과목 점수(52)
+ - 2025.09.16 // LTmetric : Data generation - 동대문 (2/3)
+ - 2025.09.17 // LTmetric : Data generation - 동대문 (3/3)
+ - 2025.09.18 // LTmetric : Data generation - 동대문 추가 (1/2)
+ - 2025.09.19 // LTmetric : Data generation - 동대문 추가 (2/2) / 군위(1/5)
+ - 2025.09.20 // ADsP : 범위가 너무 넓다... 이걸 어떻게 다하지...? 4차 정독 중
+ - 2025.09.21 // ADsP : 4차 정독 중..
+ - 2025.09.22 // ADsP 인줄 알았던 시험. DAsP(데이터 아키텍쳐) 였다...
+ - 2025.09.23 // LTmetric : Data generation 군위(5/5). 이어서 안양
+ - 2025.09.24 // LTmetric : Data generation 안양(1/3)
+ - 2025.09.25 // LTmetric : Data generation 안양(2/3) // ADsP도 ADsP인데 SQLD는...?
+ - 2025.09.28 // 광주일정 canceled
+ - 2025.09.29 // LTmetric : Data generation 안양(3/3)
+ - 2025.09.30 // LTmetric : Data generation 강남(1/2)
+ - 2025.10.01 // LTmetric : Data generation 강남(2/2)
+ - 2025.10.02 // LTmetric : Data generation 역삼(1/2)
+ - 2025.10.03 // 휴식
+ - 2025.10.04 // SQLD , ADsP 두 시험 준비1(11월 2일과 11월 중반에 시험 예정)
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
