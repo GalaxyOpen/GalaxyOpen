@@ -125,6 +125,7 @@
  - 2025.10.07 ~ 2025.10.12 - 추석 연휴
  - 2025.10.03 // LTmetric : Data generation 역삼(2/2)
  - 2025.10.20 // LTmetric : Data generation 진주 드론
+ - 2025.10.21 // LTmetric : Data generation 진주 드론2
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
