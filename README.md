@@ -127,6 +127,7 @@
  - 2025.10.20 // LTmetric : Data generation 진주 드론
  - 2025.10.21 // LTmetric : Data generation 진주 드론2
  - 2025.10.22~23 // LTmetric : Data generation 진주 드론3
+ - 2025.10.24~26 // ADsP 시험준비 (11/2 시험)
 
 ## 다른 제안. 갈 것인가? 
 - KR sys : 2025.07.27 // 준비해보자.
